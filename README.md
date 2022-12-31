@@ -8,8 +8,7 @@ I developed it to propose my girl friend and celibrate happy new year 2023. let'
 
 ##Follow instructions: 
 In Python, you can use the datetime module to get the current time in Bangladesh Stander Time, and then use a while loop to continuously update and display the remaining time until the new year. Here's an example of how to do it:
-
-#Download the code from my repository 
+ 
 
 #what you need?
 1. Cold compiler like VS 
@@ -18,4 +17,8 @@ In Python, you can use the datetime module to get the current time in Bangladesh
 
 
 
-Remember: By inserting the aforementioned code inside the loop and pausing the loop for a little period of time between each iteration with the time.sleep() function, you can also use a while loop to update the countdown in real-time. You will be able to view the countdown update in real time as a result. Good Luck. My girl friend said 'yes' so good luck and Happy codding, Happy new year 2023.  
+Remember: By inserting the aforementioned code inside the loop and pausing the loop for a little period of time between each iteration with the time.sleep() function, you can also use a while loop to update the countdown in real-time. You will be able to view the countdown update in real time as a result. 
+
+#Download the py code 
+
+Note:I gave an example to countdown and propose my girl friend. Surprisingly, My girl friend said 'yes' so good luck and Happy codding, Happy new year 2023.   
