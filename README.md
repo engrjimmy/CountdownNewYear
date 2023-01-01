@@ -1,6 +1,8 @@
-Let's Countdown Happy New Year using Python. 
-
-Copyright by Jimmy Majumder 
+                                              Let's Countdown real-time *Happy New Year* using Python. 
+                                                          Copyright by Jimmy Majumder,
+                                                     Robotics Engineer@QibiTech Inc., Japan 
+                                                     Founder of BARRC (https://barrc-bd.com/)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you would like to countdown in real-time new year by following your timezone, this python code may help you. 
 I developed it to propose my girl friend and celibrate happy new year 2023. let's check it out. 
