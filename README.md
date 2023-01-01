@@ -19,6 +19,6 @@ In Python, you can use the datetime module to get the current time in Bangladesh
 
 Remember: By inserting the aforementioned code inside the loop and pausing the loop for a little period of time between each iteration with the time.sleep() function, you can also use a while loop to update the countdown in real-time. You will be able to view the countdown update in real time as a result. 
 
-#Download the py code 
+#Download the above <Countdown.py> code and run it in your code complier environment. You can use google colab server as well as jupyternotebook or any kind of platfrom. 
 
 Note:I gave an example to countdown and propose my girl friend. Surprisingly, My girl friend said 'yes' so good luck and Happy codding, Happy new year 2023.   
